@@ -11,7 +11,6 @@ namespace MinimizeWhatsapp
 {
     internal class Program
     {
-
         [DllImport("user32.dll")]
         private static extern IntPtr FindWindow(string lpClassName, string lpWindowName);
         [DllImport("user32.dll")]

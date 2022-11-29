@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeWhatsapp", "ConsoleApp2\MinimizeWhatsapp.csproj", "{B7BD66AC-BE3D-4637-A19C-468471DAC253}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeWhatsapp", "MinimizeWhatsapp\MinimizeWhatsapp.csproj", "{B7BD66AC-BE3D-4637-A19C-468471DAC253}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
